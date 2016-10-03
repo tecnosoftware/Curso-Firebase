@@ -2,10 +2,10 @@
 
   // Initialize Firebase
   var config = {
-    apiKey: "AIzaSyAaG9JFHL8EdQAEXs6--j3OWZYT3GMA274",
-    authDomain: "fire-8d809.firebaseapp.com",
-    databaseURL: "https://fire-8d809.firebaseio.com",
-    storageBucket: "fire-8d809.appspot.com",
+    apiKey: "tus valores",
+    authDomain: "proporcionados por ",
+    databaseURL: "Firebase",
+    storageBucket: "al momento de implementar el sdk",
   };
   firebase.initializeApp(config);
 
